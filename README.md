@@ -1,1 +1,7 @@
-hello world and everyone, im Stephen Saturday that just began learning coding from alx. 
+#
+# I AM A COOL GUY
+  -> SMART
+  -> SELFLESS
+  -> INTELLIGENT
+  -> STRONG WILLED
+ # I AM A SOFTWARE ENGINEER IN THE MAKING.
